@@ -6,5 +6,5 @@
   "careerUrl": "https://yardiromania.breezy.hr",
   "apiBase": "https://yardiromania.breezy.hr",
   "defaultLocation": "Cluj-Napoca",
-  "scraperFile": "https://raw.githubusercontent.com/sebiboga/yardi-call-center-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
+  "scraperFile": "https://raw.githubusercontent.com/TheTatu13/yardi-call-center-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
 }
