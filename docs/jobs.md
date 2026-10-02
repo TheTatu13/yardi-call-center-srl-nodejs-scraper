@@ -7,14 +7,14 @@
 | CIF | 32509291 |
 | Brand | YARDI |
 | Status | activ |
-| Location | 21 DECEMBRIE 1989, 77, Municipiul Cluj-Napoca, Cluj |
+| Location | JUD. CLUJ, MUN. CLUJ-NAPOCA, BLD. 21 DECEMBRIE 1989, NR.77, CLĂDIREA A-B. THE OFFICE. CAMERA 3.1, ET.3 |
 | Website | [https://yardiromania.ro](https://yardiromania.ro) |
 | Careers | [https://yardiromania.breezy.hr](https://yardiromania.breezy.hr) |
-| Last Scraped | 2026-07-26 |
+| Last Scraped | 2026-10-02 |
 
-## Current Job Listings (9)
+## Current Job Listings (7)
 
-_Generated: 2026-07-26T08:14:34.611Z_
+_Generated: 2026-10-02T23:31:38.391Z_
 
 ### Associate Researcher (Yardi Matrix)
 
@@ -24,41 +24,25 @@ _Generated: 2026-07-26T08:14:34.611Z_
 - **Tags:** matrix
 - **Status:** scraped
 
-### Associate Technical Account Manager
+### Marketing Analyst II – Digital & Performance Analytics
 
-- **URL:** [https://yardiromania.breezy.hr/p/e1415907d1f301-associate-technical-account-manager](https://yardiromania.breezy.hr/p/e1415907d1f301-associate-technical-account-manager)
-- **Work Mode:** hybrid
-- **Location:** Cluj-Napoca
-- **Tags:** client support and consultancy
-- **Status:** scraped
-
-### Digital Marketing Internship
-
-- **URL:** [https://yardiromania.breezy.hr/p/76c61862dd2601-digital-marketing-internship](https://yardiromania.breezy.hr/p/76c61862dd2601-digital-marketing-internship)
+- **URL:** [https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-digital-performance-analytics](https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-digital-performance-analytics)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
 - **Status:** scraped
 
-### Marketing Analyst II - RentCafe
+### SEO Engineer II (WeWork)
 
-- **URL:** [https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-rentcafe](https://yardiromania.breezy.hr/p/0d4e5819ce9a01-marketing-analyst-ii-rentcafe)
+- **URL:** [https://yardiromania.breezy.hr/p/81a70a584a6901-seo-engineer-ii-wework](https://yardiromania.breezy.hr/p/81a70a584a6901-seo-engineer-ii-wework)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
 - **Status:** scraped
 
-### Marketing Analyst II - Content & Market Intelligence
+### Senior Graphic Designer – Multimedia Designer
 
-- **URL:** [https://yardiromania.breezy.hr/p/4368032c08ac01-marketing-analyst-ii-content-market-intelligence](https://yardiromania.breezy.hr/p/4368032c08ac01-marketing-analyst-ii-content-market-intelligence)
-- **Work Mode:** on-site
-- **Location:** Cluj-Napoca
-- **Tags:** marketing
-- **Status:** scraped
-
-### PPC Specialist II - REACH by RentCafe
-
-- **URL:** [https://yardiromania.breezy.hr/p/5fb2c5d5439301-ppc-specialist-ii-reach-by-rentcafe](https://yardiromania.breezy.hr/p/5fb2c5d5439301-ppc-specialist-ii-reach-by-rentcafe)
+- **URL:** [https://yardiromania.breezy.hr/p/81d6720f400901-senior-graphic-designer-multimedia-designer](https://yardiromania.breezy.hr/p/81d6720f400901-senior-graphic-designer-multimedia-designer)
 - **Work Mode:** on-site
 - **Location:** Cluj-Napoca
 - **Tags:** marketing
@@ -80,10 +64,10 @@ _Generated: 2026-07-26T08:14:34.611Z_
 - **Tags:** programming
 - **Status:** scraped
 
-### Software Development Engineer III (Frontend)
+### Technical Analyst – AI Workflow Automation
 
-- **URL:** [https://yardiromania.breezy.hr/p/dcc4f1548d2d01-software-development-engineer-iii-frontend](https://yardiromania.breezy.hr/p/dcc4f1548d2d01-software-development-engineer-iii-frontend)
-- **Work Mode:** hybrid
+- **URL:** [https://yardiromania.breezy.hr/p/021230d1002b01-technical-analyst-ai-workflow-automation](https://yardiromania.breezy.hr/p/021230d1002b01-technical-analyst-ai-workflow-automation)
+- **Work Mode:** on-site
 - **Location:** Cluj-Napoca
-- **Tags:** programming
+- **Tags:** marketing
 - **Status:** scraped
