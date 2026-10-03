@@ -4,7 +4,7 @@ Thank you for your interest in contributing!
 
 ## 🌱 This Repo Is a Derived Scraper
 
-This is a **derived scraper** — created from the YARDI template at `sebiboga/epam-systems-international-srl-nodejs-scraper`. It follows the same structure, workflows, and testing layers as all scrapers in the peviitor.ro ecosystem.
+This is a **derived scraper** — created from the YARDI template at `peviitor-scrapers/epam-systems-international-srl-nodejs-scraper`. It follows the same structure, workflows, and testing layers as all scrapers in the peviitor.ro ecosystem.
 
 To create a new derived scraper for another company, start from the YARDI template repo and follow the derivation checklist there.
 
@@ -30,7 +30,7 @@ npm test
 
 ## Reporting Issues
 
-Open a [GitHub Issue](https://github.com/sebiboga/yardi-call-center-srl-nodejs-scraper/issues) with:
+Open a [GitHub Issue](https://github.com/peviitor-scrapers/yardi-call-center-srl-nodejs-scraper/issues) with:
 - Clear description of the problem
 - Steps to reproduce
 - Expected vs actual behavior

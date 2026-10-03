@@ -7,5 +7,5 @@
   "apiBase": "https://yardiromania.breezy.hr",
   "apiCountryId": "8150000000000001155",
   "defaultLocation": "Cluj-Napoca",
-  "scraperFile": "https://raw.githubusercontent.com/TheTatu13/yardi-call-center-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
+  "scraperFile": "https://raw.githubusercontent.com/peviitor-scrapers/yardi-call-center-srl-nodejs-scraper/main/.github/workflows/job-seeker-ro-spider.yml"
 }
